@@ -46,7 +46,6 @@ The workflow covers:
 ## Repository structure
 
 ```
-.
 ├── human_activity_recognition.ipynb
 ├── Individual_Project_Report.pdf
 ├── requirements.txt
