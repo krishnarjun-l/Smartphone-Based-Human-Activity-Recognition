@@ -52,36 +52,6 @@ The workflow covers:
 └── README.md
 ```
 
-## Getting started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/<your-username>/Smartphone-Based-Human-Activity-Recognition.git
-   cd Smartphone-Based-Human-Activity-Recognition
-   ```
-
-2. (Recommended) Create and activate a virtual environment:
-
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate      # On Windows: venv\Scripts\activate
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Download the UCI HAR dataset (see [Dataset](#dataset)) and place it at the repository root.
-
-5. Launch Jupyter and open the notebooks:
-
-   ```bash
-   jupyter notebook
-   ```
-
 ## Authors
 
 Group 9 — Advanced Machine Learning final project:
