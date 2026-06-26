@@ -25,8 +25,6 @@ Smartphone-Based-Human-Activity-Recognition/
 │   ├── test/
 │   ├── features.txt
 │   └── activity_labels.txt
-├── notebooks/
-└── reports/
 ```
 
 The dataset provides, for each record: triaxial acceleration, triaxial angular velocity, a 561-feature vector, an activity label, and the subject identifier. It is pre-split into 70% training and 30% test data by subject.
@@ -49,15 +47,8 @@ The workflow covers:
 
 ```
 .
-├── notebooks/
-│   └── human_activity_recognition.ipynb      # Main analysis and modeling notebook
-├── reports/
-│   ├── Project_Proposal.pdf
-│   ├── Group_Project_Report.pdf
-│   ├── Individual_Project_Report.pdf
-│   ├── Individual_Report.docx
-│   ├── Project_Group_Minutes.pdf
-│   └── Group_9_Presentation.pptx
+├── human_activity_recognition.ipynb
+├── Individual_Project_Report.pdf
 ├── requirements.txt
 └── README.md
 ```
