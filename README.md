@@ -21,10 +21,10 @@ After downloading, unzip it and place the `UCI HAR Dataset` folder at the reposi
 ```
 Smartphone-Based-Human-Activity-Recognition/
 ├── UCI HAR Dataset/        <- place the downloaded dataset here
-│   ├── train/
-│   ├── test/
-│   ├── features.txt
-│   └── activity_labels.txt
+   ├── train/
+   ├── test/
+   ├── features.txt
+   └── activity_labels.txt
 ```
 
 The dataset provides, for each record: triaxial acceleration, triaxial angular velocity, a 561-feature vector, an activity label, and the subject identifier. It is pre-split into 70% training and 30% test data by subject.
